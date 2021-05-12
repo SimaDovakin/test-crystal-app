@@ -1,18 +1,7 @@
 # myapp
 
-TODO: Write a description here
+This is just my test learning project.
 
-## Installation
-
-TODO: Write installation instructions here
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
 
 ## Contributing
 
