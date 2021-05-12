@@ -1,6 +1,7 @@
 # myapp
 
-This is just my test learning project.
+This is just my test learning project. I use [Kemal](https://kemalcr.com/).
+
 
 
 ## Contributing
