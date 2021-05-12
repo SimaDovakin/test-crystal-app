@@ -1,0 +1,17 @@
+name: myapp
+version: 0.1.0
+
+authors:
+  - SimaDovakin <simadovakin999@gmail.com>
+
+targets:
+  myapp:
+    main: src/myapp.cr
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+crystal: 1.0.0
+
+license: MIT
